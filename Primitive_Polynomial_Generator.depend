@@ -1,0 +1,37 @@
+# depslib dependency file v1.0
+1577158160 source:/home/hasan/Documents/Cpp/003.ECC/BCH/main.cpp
+	<iostream>
+	<math.h>
+	<algorithm>
+	<vector>
+	<time.h>
+	<chrono>
+	<stdlib.h>
+	<random>
+	<fungsi.h>
+
+1577157265 source:/home/hasan/Documents/Cpp/003.ECC/BCH/src/fungsi.cpp
+	"fungsi.h"
+	<algorithm>
+	<vector>
+	<math.h>
+
+1577111402 /home/hasan/Documents/Cpp/003.ECC/BCH/include/fungsi.h
+	<vector>
+
+1577157265 source:/home/hasan/Documents/Cpp/003.ECC/Table Generator/src/fungsi.cpp
+	"fungsi.h"
+	<algorithm>
+	<vector>
+	<math.h>
+
+1577111402 /home/hasan/Documents/Cpp/003.ECC/Table Generator/include/fungsi.h
+	<vector>
+
+1577158751 source:/home/hasan/Documents/Cpp/003.ECC/Table Generator/main.cpp
+	<iostream>
+	<math.h>
+	<algorithm>
+	<vector>
+	<fungsi.h>
+
